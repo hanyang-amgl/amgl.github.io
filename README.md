@@ -1,18 +1,7 @@
 # amgl.github.io
 
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8" />
-<title>chai lab</title>
- <style> {display:none !important;}
- html * {font-size: 1em !important; font-family: Arial !important;}
- a {text-decoration:none;}</stylei>
-<style type="text/css"> a:link{color:blue;} a:visited{color:purple;}a:hover{color:green;}a:active{color:red;}</style>
-</head>
-<!--
-<body>[<a href="https://gene.hanyang.ac.kr/">chai lab (adv.mol.gen.lab)</a>]<br>
--->
+ 
+ 
 
 <br>top:&nbsp;
 <a href="http://www.ncbi.nlm.nih.gov/Sitemap/index.html">ncbi</a>&nbsp;
